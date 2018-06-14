@@ -1,5 +1,5 @@
 package analyser;
 
-public interface TextAnalyzer {
+interface TextAnalyzer {
     Label processText(String text);
 }
